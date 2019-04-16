@@ -41,6 +41,7 @@
         "@0x/utils": "^4.0.2",
         "@0x/web3-wrapper": "^4.0.1",
         "@babel/polyfill": "^7.0.0",
+        "bitcore-lib": "^0.16.0",
         "body-parser": "^1.18.3",
         "cors": "^2.8.5",
         "dotenv": "^6.2.0",

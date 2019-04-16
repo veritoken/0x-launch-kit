@@ -6,6 +6,7 @@ const crypto = require('crypto');
 const fs = require('fs');
 const _ = require('lodash');
 const path = require('path');
+
 const assert_1 = require('@0x/assert');
 const metadataPath = path.join(__dirname, '../../metadata.json');
 var EnvVarType;
